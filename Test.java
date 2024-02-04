@@ -7,7 +7,7 @@ class Test
 
 		if(num==7)
 		{
-			System.out.println(num+" !! Thala for a Reason ");
+			System.out.println(num+" !! Thala for a Reason and Bole Jo Koyal.....");
 		}
 		else
 		{

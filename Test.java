@@ -9,6 +9,7 @@ class Test
 		if(num==7 && name.equals("7"))
 		{
 			System.out.println(num+" !! Thala for a Reason and Bole Jo Koyal.....");
+			System.out.println("Aree Vedya  !! BC bat ka grip........");
 		}
 		else
 		{
